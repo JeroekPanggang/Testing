@@ -10,8 +10,12 @@ Bersama-sama memancing di laut dalam dalam petualangan seru! Tangkap berbagai je
 
 ## Detail
 
-* Genre: Fishing, Multiplayer, Co-op
+* Genre: 2D, Fishing, Multiplayer, Co-op
 * Jumlah Player: 1 \~ 4 Player
+
+## Target Audience
+
+
 
 ## Core Mechanic
 
