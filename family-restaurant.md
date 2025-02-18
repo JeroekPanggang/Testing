@@ -34,15 +34,42 @@ Game ini dirancang untuk keluarga dengan mekanisme sederhana dan sistem kerja sa
 
 ## Core Mechanic
 
-1. :fork\_knife\_plate: Plate & Cleaning System
-   1. Setiap makanan dan minuman akan memerlukan piring dan gelas / cangkir.
-   2. Jumlah Piring  / Gelas / Cangkir bersih yang tersedia terbatas, sehingga Player perlu mencuci untuk menambah jumlah Piring / Gelas / Cangkir yang ada.
-2. :handshake: Teamwork & Role Management
-   1. Player harus bekerja sama dan berkomunikasi agar dapur dapat berjalan dengan efektif
-   2. Pembagian tugas seperti meyiapkan bahan, mencuci piring hingga memasak diperlukan untuk menyiapkan makanan dengan cepat
-3.
-4. A
+1. :receipt: Order Management
+   1. Pemain harus melihat pesanan yang masuk dan menyusun strategi untuk mengerjakan pesanan dengan efisien.
+   2. Setiap pesanan akan terdiri dari 1 \~ 4 hidangan yang memiliki 3 \~ 4 pengolahan.
+2. :hamburger: One Dish Many Part
+   1. Setiap makanan / minuman terdiri dari beberapa Minigame. Misalkan Jus :tropical\_drink:dengan Minigame berupa:
+      1. Mencuci Gelas.&#x20;
+      2. Memotong Buah.
+      3. Memblender Buah.
+   2. Setiap Minigame perlu dilakukan untuk menyelesaikan makanan / minuman.
+3. :handshake: Teamwork & Role Management
+   1. Dikarenakan setiap hidangan terdiri dari beberapa bagian, Player harus bekerja sama dan berbagi tugas untuk menyelesaikan hidangan dengan cepat.
+4. :100: Time Management & Scoring sytem
+   1. Setiap level memiliki batas waktu tertentu sehingga pemain harus bekerja secara efisien.
+   2. Player akan menerima Poin setelah menyelesaikan pesanan pelanggan.
+   3. Besar Poin ditentukan oleh jumlah Perfect dan OK dalam menyiapkan hidangan.
+   4. Diakhir level Total Score dari Player akan dihitung dan diberikan bintang :star:untuk setiap threshold yang tercapai (Maks. 3:star:).
+5. :soap: Cleaning Plate \[Minigame]
+   1. Disimbolkan dengan Piring / Gelas / Cangkir.&#x20;
+   2. Player akan diminta mencuci Alat Makan yang akan dipakai untuk menghidangkan pesanan.
+   3. Proses mencuci dilakukan dengan cara mengusap alat makan hingga bersih.
+6. :knife: Ingredient Preparation
+   1. Disimbolkan dengan daging ataupun buah - buahan.
+   2. Player akan diminta untuk mempersiapkan bahan masak sesuai instruksi.
+   3. Proses persiapan dapat berupa:
+      1. Memotong daging / buah
+      2. Melunakkan daging
+      3. Memilih bahan yang diminta
+   4.
+7. a
+
+
+
+
 
 ## Storyboard
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
