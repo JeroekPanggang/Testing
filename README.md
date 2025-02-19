@@ -15,6 +15,10 @@ Bersama-sama memancing di laut dalam dalam petualangan seru! Tangkap berbagai je
 * Jumlah Player: 1 \~ 4 Player.
 * Art Style: Cartoony&#x20;
 
+## Art Reference
+
+<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption><p>Cat Snack Bar: Bustling Fish Market</p></figcaption></figure>
+
 ## Target Audience
 
 Game ini dirancang untuk keluarga dengan mekanisme sederhana dan sistem kerja sama yang mendorong interaksi. **Ikan di laut dalam** bisa ditangkap oleh pemain lebih berpengalaman, sementara **ikan di laut dangkal hingga menengah** cocok untuk pemain yang lebih muda. Dengan sistem ini, semua anggota keluarga dapat berperan dan bersenang-senang bersama.
@@ -45,7 +49,7 @@ Game ini dirancang untuk keluarga dengan mekanisme sederhana dan sistem kerja sa
 
 ## Storyboard
 
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption><p>TV StoryBoard</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Controller Mockup</p></figcaption></figure>
 
