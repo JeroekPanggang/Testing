@@ -25,9 +25,9 @@ Ayo jalankan bisnis restoran keluarga ! Bekerja sama dalam menyajikan makanan ke
 
 ## Detail
 
-* Genre: 2D, Multiplayer, Co-op, Cooking, Minigame.
+* Genre: 2D, Multiplayer, Co-op, Cooking.
 * Jumlah Player: 1 \~ 4 Player.
-* Art Style: Cartoony, Colourful&#x20;
+* Art Style: Cartoony, Colourful.
 
 ## Art Reference
 
