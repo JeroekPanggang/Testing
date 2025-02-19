@@ -38,11 +38,12 @@ Game ini dirancang untuk keluarga dengan mekanisme sederhana dan sistem kerja sa
    1. Pemain harus melihat pesanan yang masuk dan menyusun strategi untuk mengerjakan pesanan dengan efisien.
    2. Setiap pesanan akan terdiri dari 1 \~ 4 hidangan yang memiliki 3 \~ 4 pengolahan.
 2. :hamburger: One Dish Many Part
-   1. Setiap makanan / minuman terdiri dari beberapa Minigame. Misalkan Jus :tropical\_drink:dengan Minigame berupa:
+   1. Setiap hidangan terdiri dari beberapa Minigame yang perlu dilakukan untuk menyelesaikan hidangan tersebut. Misalkan Jus :tropical\_drink:dengan Minigame berupa:
       1. Mencuci Gelas.&#x20;
       2. Memotong Buah.
       3. Memblender Buah.
-   2. Setiap Minigame perlu dilakukan untuk menyelesaikan makanan / minuman.
+   2. Minigames perlu dilakukan untuk menyelesaikan hidangan.tiap Minigames memiliki tugas yang perlu di selesaikan dalam batas waktu tertentu.&#x20;
+   3. Jika Player berhasil menyelesaikan tugas maka akan memperoleh "Perfect" yang digambarkan dengan koin yang bersinar. Sedangkan jika Player tak berhasil menyelesaikan tugas, maka akan memperoleh "OK" yang digambarkan dengan koin yang redup.
 3. :handshake: Teamwork & Role Management
    1. Dikarenakan setiap hidangan terdiri dari beberapa bagian, Player harus bekerja sama dan berbagi tugas untuk menyelesaikan hidangan dengan cepat.
 4. :100: Time Management & Scoring sytem
@@ -50,11 +51,14 @@ Game ini dirancang untuk keluarga dengan mekanisme sederhana dan sistem kerja sa
    2. Player akan menerima Poin setelah menyelesaikan pesanan pelanggan.
    3. Besar Poin ditentukan oleh jumlah Perfect dan OK dalam menyiapkan hidangan.
    4. Diakhir level Total Score dari Player akan dihitung dan diberikan bintang :star:untuk setiap threshold yang tercapai (Maks. 3:star:).
-5. :soap: Cleaning Plate \[Minigame]
+
+
+
+1. :soap: Cleaning Plate \[Minigame]
    1. Disimbolkan dengan Piring / Gelas / Cangkir.&#x20;
    2. Player akan diminta mencuci Alat Makan yang akan dipakai untuk menghidangkan pesanan.
    3. Proses mencuci dilakukan dengan cara mengusap alat makan hingga bersih.
-6. :knife: Ingredient Preparation
+2. :knife: Ingredient Preparation
    1. Disimbolkan dengan daging ataupun buah - buahan.
    2. Player akan diminta untuk mempersiapkan bahan masak sesuai instruksi.
    3. Proses persiapan dapat berupa:
@@ -62,14 +66,12 @@ Game ini dirancang untuk keluarga dengan mekanisme sederhana dan sistem kerja sa
       2. Melunakkan daging
       3. Memilih bahan yang diminta
    4.
-7. a
-
-
+3. a
 
 
 
 ## Storyboard
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>

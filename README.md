@@ -13,6 +13,7 @@ Bersama-sama memancing di laut dalam dalam petualangan seru! Tangkap berbagai je
 
 * Genre: 2D, Fishing, Multiplayer, Co-op.
 * Jumlah Player: 1 \~ 4 Player.
+* Art Style: Cartoony&#x20;
 
 ## Target Audience
 
@@ -44,7 +45,7 @@ Game ini dirancang untuk keluarga dengan mekanisme sederhana dan sistem kerja sa
 
 ## Storyboard
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
