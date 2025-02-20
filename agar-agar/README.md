@@ -28,6 +28,7 @@ Di dunia dapur ajaib, empat jelly hidup dalam harmoni—**Strawberry (Merah), Bu
 * Genre: 2D, Multiplayer, Puzzle Platformer, Co-op&#x20;
 * Jumlah Player: 1 \~ 4 Player.
 * Art Style: Cartoony, Colourful.
+* Design Pillar: Fellowship, Fantasy, Challenge, Sensation
 
 ## Art Reference
 
