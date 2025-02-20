@@ -1,6 +1,6 @@
 ---
-cover: ../.gitbook/assets/ee403f82f8a6ec43c95225f6332c309d.jpg
-coverY: 293.11587982832623
+cover: ../.gitbook/assets/67e83de8bc66bfe7e4e828ea4c0fd534.jpeg
+coverY: 0
 layout:
   cover:
     visible: true
@@ -45,16 +45,17 @@ Sistem Multiplayer dan puzzle co-op yang ada di game ini membuat game ini layak 
 
 ## Core Mechanic
 
-1. Movement & Jump
+1. :person\_walking:  Movement & Jump
    1. Player dapat bergerak ke kanan dan ke kiri serta melompat menggunakan Button.
-2. Flavor (Color) Coded
+2. :strawberry: Flavor (Color) Coded
    1. Setiap karakter Player memiliki rasa (warna) yang berbeda, terdapat warna Merah, Biru Muda, Hijau Muda dan Kuning
    2. Warna dari Player dapat memengaruhi Special Power yang dimilikinya
-3. Special Power
+3. :muscle: Special Power
    1. Setiap karakter memiliki kemampuan tersendirinya, misalkan warna Merah dengan kemampuan memperbesar diri dan menambah massanya
-4. Colored Area
+4. :red\_circle: Colored Area
    1. Beberapa tempat dan platform terbuat dari warna tertentu yang hanya bisa diakses oleh karakter dengan warna yang sama.
-5. a
+
+
 
 ## Storyboard
 
