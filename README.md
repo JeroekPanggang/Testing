@@ -14,10 +14,11 @@ Bersama-sama memancing di laut dalam dalam petualangan seru! Tangkap berbagai je
 * Genre: 2D, Fishing, Multiplayer, Co-op.
 * Jumlah Player: 1 \~ 4 Player.
 * Art Style: Cartoony&#x20;
+* Design Pillar: Fellowship, Challenge, Fantasy
 
 ## Art Reference
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption><p>Cat Snack Bar: Bustling Fish Market</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5).png" alt="" width="160"><figcaption><p>Cat Snack Bar: Bustling Fish Market</p></figcaption></figure>
 
 ## Target Audience
 
@@ -31,15 +32,15 @@ Game ini dirancang untuk keluarga dengan mekanisme sederhana dan sistem kerja sa
    * Player melempar kail ke laut dengan menentukan sudut dan kekuatan lemparan.
    * Kekuatan lemparan akan menentukan kecepatan turun kail.
    * Kail akan turun secara terus menerus sampai mengenai Objek ataupun tembok.
-3. :boom: **Sea Mine**
+3. :boom: **Sea Mine (Challenge)**
    * Player harus menghindari bahaya berupa Ranjau Laut.
    * Jika kail pancing Player mengenai Ranjau, maka Ranjau akan meledak dan membunuh ikan disekitarnya.
-4. :100: **Point System**
+4. :100: **Point System (Fellowship)**
    * Sistem Poin bersifat tim (All for one).
    * Player akan menerima Poin dari ikan yang ditangkap.&#x20;
    * Semakin dalam lokasi ikan ditangkap, maka semakin besar poinnya.
    * Player juga akan memperoleh poin besar jika berhasil menangkap peti harta karun.
-5. :dart: **Mission**&#x20;
+5. :dart: **Mission (Challenge)**&#x20;
    * Player diberikan objektif berupa Jenis dan Jumlah ikan yang harus ditangkap.&#x20;
    * Player harus bekerjasama dalam memenuhi objektif untuk memenangkan level.
    * Player tetap bisa menangkap ikan yang tidak sesuai objektif untuk meraih poin tambahan.

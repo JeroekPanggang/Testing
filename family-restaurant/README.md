@@ -28,6 +28,7 @@ Ayo jalankan bisnis restoran keluarga ! Bekerja sama dalam menyajikan makanan ke
 * Genre: 2D, Multiplayer, Co-op, Cooking.
 * Jumlah Player: 1 \~ 4 Player.
 * Art Style: Cartoony, Colourful.
+* Design Pillar: Fellowship
 
 ## Art Reference
 
