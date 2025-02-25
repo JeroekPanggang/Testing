@@ -6,3 +6,5 @@
   * [\[Game Diagram\] Family Restaurant](https://drive.google.com/file/d/11N9aEclZ1adT43ZJpZtd55wHEvnPeBT0/view?usp=sharing)
 * [🍮 Agar - Agar](agar-agar/README.md)
   * [\[Game Diagram\] Agar - Agar](https://drive.google.com/file/d/1uBItui49adInCMr1I96yfCvDMhphr51M/view?usp=sharing)
+* [Slider Master](slider-master.md)
+* [Bubble Popper](bubble-popper.md)
