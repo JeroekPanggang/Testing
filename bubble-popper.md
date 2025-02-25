@@ -8,9 +8,9 @@
 
 ## Detail
 
-* Genre: 2D, Puzzle, Slider
+* Genre: Puzzle, Arcade, Party Game,&#x20;
 * Jumlah Player: 2 \~ 4 Orang
-* Game Design Pillar: Challenge, Competition, Fantasy
+* Game Design Pillar: Challenge, Competition, Fellowship \[Mode Co-op]
 
 ## Art Reference
 
@@ -48,14 +48,19 @@
          * **Color Change:** Warna pada Player akan diacak, membuat probabilitas warna Bubble yang muncul lebih sering menjadi berbeda / berubah.
          * **Spawn Spree:** Bubble akan muncul secara cepat dalam waktu yang singkat
          * **Bubble Flip:** Memputar balikkan posisi Bubble yang berada di atas layar&#x20;
-   2. **Classic Vs.**&#x20;
+   2. **Vs. Black Bubble Hunt**
+      1. \[Black Bubble Mechanic] Akan muncul Bubble utama berwarna **Hitam** di tengah. Jika Player mengenai **Bubble Hitam**, maka Player akan memperoleh Poin besar dan semua Bubble akan meletus.
+      2. \[Black Bubble Respawn] Setelah **Bubble Hitam** meletus, maka akan ada jeda beberapa waktu, kemudian Bubble Hitam baru akan muncul.
+      3. \[Black Bubble Pity System] Bubble Hitam memiliki kecenderungan untuk spawn dengan posisi lebih mendekati Player dengan score terendah. Memudahkan mereka untuk meletuskan dan mengejar ketertinggalan.
+      4. \[Bubble Spawn] Bubble akan spawn mengitari Bubble Hitam. Diawal Bubble Hitam Spawn, akan ada setidaknya 2 lapis Bubble yang melapisi **Bubble Hitam**
+   3. **Classic Vs.**&#x20;
       1. \[Bubble Spawn] Saat pemain mengumpulkan poin tertentu, Bubble di layar lawan akan muncul lebih cepat untuk sementara waktu.
 
 ## Storyboard
 
 <figure><img src=".gitbook/assets/image (31).png" alt=""><figcaption><p>TV Mockup - Classic Vs.</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>TV Mockup - Black Bubble Hunt</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>TV Mockup - Vs. Black Bubble Hunt</p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>TV Mockup - Coop Mode</p></figcaption></figure>
 
