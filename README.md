@@ -52,5 +52,5 @@ Game ini dirancang untuk keluarga dengan mekanisme sederhana dan sistem kerja sa
 
 <figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption><p>TV StoryBoard</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Controller Mockup</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Controller Mockup</p></figcaption></figure>
 

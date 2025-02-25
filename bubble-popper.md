@@ -55,4 +55,7 @@
 
 <figure><img src=".gitbook/assets/image (31).png" alt=""><figcaption><p>TV Mockup - Classic Vs.</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>TV Mockup - Coop Mode</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>TV Mockup - Black Bubble Hunt</p></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>TV Mockup - Coop Mode</p></figcaption></figure>
+
