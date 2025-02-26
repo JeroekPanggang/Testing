@@ -61,11 +61,11 @@ Game ini ditargetkan untuk Keluarga dan Player yang menyukai game yang mirip sep
 
 ## Storyboard
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>TV Mockup - Classic Vs.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>TV Mockup - Classic Vs.</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>TV Mockup - Vs. Black Bubble Hunt</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption><p>TV Mockup - Vs. Black Bubble Hunt</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>TV Mockup - Coop Mode</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>TV Mockup - Coop Mode</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Phone Mockup Controller</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption><p>Phone Mockup Controller</p></figcaption></figure>
 

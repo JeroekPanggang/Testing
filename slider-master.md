@@ -43,7 +43,7 @@ Game ini ditargetkan untuk Player casual yang menyukai game bergenre Puzzle Slid
 
 ## Storyboard
 
-<figure><img src=".gitbook/assets/image (23).png" alt=""><figcaption><p>TV Screen Mockup (Max Example)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (23).png" alt=""><figcaption><p>TV Screen Mockup (Map Example)</p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (24).png" alt=""><figcaption><p>Controller Mockup</p></figcaption></figure>
 
