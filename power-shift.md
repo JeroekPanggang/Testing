@@ -2,9 +2,22 @@
 
 ## Overview
 
+**Power Shift** adalah game **Objective Defense** di mana pemain harus **melindungi Generator** dari serangan Alien serta **memperbaiki dan memelihara Mesin** agar tetap berfungsi.
 
+Pemain terbagi menjadi dua peran utama:
+
+* **🛠️ Mechanic** → Bertugas **memperbaiki Mesin** dan memastikan produksinya tetap stabil.
+* **⚔️ Fighter** → Bertugas **melawan Alien** dan melindungi Generator serta Mesin dari serangan.
+
+Untuk menang, pemain harus **menghasilkan cukup energi dari Mesin**, sementara **mencegah Generator hancur** akibat serangan Alien. **Kerja sama tim** menjadi kunci keberhasilan dalam menghadapi ancaman dan mempertahankan keseimbangan antara perbaikan serta pertahanan!&#x20;
 
 ## Target Audience
+
+Game ini dirancang untuk Player yang menyukai game bertipe Co-op dan bergenre Objective defense&#x20;
+
+
+
+Game ini dirancang untuk Player yang menyukai game Co-op melalui pembagian Role dengan objektif bersama yang harus dicapai. Walaupun begitu, game ini juga dapat dimainkan oleh Keluarga karena sifat Kerja sama dan mekanisme yang fleksibel. &#x20;
 
 ## Detail
 
@@ -25,11 +38,13 @@
          * Tidak dapat melawan Alien secara langsung.
          * Mechanic memiliki HP yang ditampilkan dengan bar Hijau di sebelah atas kiri.
          * Jika HP habis, maka Mechanic akan stun selama beberapa detik sebelum HP dipulihkan.
+         * \[Opsional] Mechanic dapat melawan dan memberikan knockback ke lawan, tetapi damagenya rendah.
       2. **⚔️ Fighter:**
          * Bertugas melindungi Mechanic, Generator, dan Mesin dari serangan Alien.
          * Memiliki Special Attack untuk menghadapi musuh dengan lebih efektif.
          * Fighter memiliki Energy yang ditampilkan dengan bar Biru Muda di sebelah atas kanan. Energy dibutuhkan untuk mengaktifkan Special Attack
-         * Jika Energy habis, maka Fighter harus mengisi ulang Energy
+         * Jika Energy habis, maka Fighter harus mengisi ulang Energy.
+         * \[Opsional] Fighter bisa memperbaiki Mesin tetapi memiliki kecepatan yang lambat.
 2. Objective Defense - Main Generator
    1. Player harus melindungi Generator Utama yang terdapat di Map dari serangan Alien. Jika HP Generator habis, maka Player akan kalah.
    2. Fighter dapat memulihkan Energy jika berada di dekat Generator.
