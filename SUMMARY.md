@@ -8,3 +8,5 @@
   * [\[Game Diagram\] Agar - Agar](https://drive.google.com/file/d/1uBItui49adInCMr1I96yfCvDMhphr51M/view?usp=sharing)
 * [Slider Master](slider-master.md)
 * [Bubble Popper](bubble-popper.md)
+* [Power Shift](power-shift.md)
+* [Diagram Game 4 \~ 6](https://drive.google.com/file/d/1l7jBoYJLzinoomGyFfunJvDdl-P88Ma_/view?usp=sharing)

@@ -6,6 +6,8 @@ Slide Master adalah game Puzzle Slide dimana gerakan karakter berupa Slide horiz
 
 ## Target Audience
 
+Game ini ditargetkan untuk Player casual yang menyukai game bergenre Puzzle Slider. Game ini juga cocok dimainkan bareng keluarga karena walaupun bersifat kompetitif, mekanisme dan kontrol dari Game ini sangat mudah untuk dipelajari
+
 ## Detail
 
 * Genre: 2D, Puzzle, Slider

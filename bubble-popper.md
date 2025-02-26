@@ -2,9 +2,11 @@
 
 ## Overview
 
-
+Bubble Popper adalah game Puzzle Match 3 dengan mekanisme menembak, dimana Player akan menembakkan Bubble ke arah gerombolan Bubble lainnya
 
 ## Target Audience
+
+Game ini ditargetkan untuk Keluarga dan Player yang menyukai game yang mirip seperti Bubble Shooter. Beragam game mode mulai dari yang kompetitif dan mode party, hingga mode Co-op membuat game ini bisa dinikmati bersama keluarga maupun teman.
 
 ## Detail
 
@@ -44,7 +46,8 @@
 7. **Mekanisme Khusus:**&#x20;
    1. **Co-op Mode**
       1. \[Role Management] Setiap Player memiliki warna khusus, Bubble yang direload akan memiliki probabilitas lebih tinggi untuk muncul dengan warna yang sama dengan Player.
-      2. \[Event Management] Terdapat sebuah bar yang berada di layar bagian atas. Setelah bar terisi penuh maka akan terjadi salah satu Event berikut yang dipilih secara random:
+      2. \[Movement Mechanic] Karakter dapat bergerak ke kanan dan ke kiri. Tetapi, karakter akan diam ketika sedang Aiming.
+      3. \[Event Management] Terdapat sebuah bar yang berada di layar bagian atas. Setelah bar terisi penuh maka akan terjadi salah satu Event berikut yang dipilih secara random:
          * **Color Change:** Warna pada Player akan diacak, membuat probabilitas warna Bubble yang muncul lebih sering menjadi berbeda / berubah.
          * **Spawn Spree:** Bubble akan muncul secara cepat dalam waktu yang singkat
          * **Bubble Flip:** Memputar balikkan posisi Bubble yang berada di atas layar&#x20;
@@ -58,9 +61,11 @@
 
 ## Storyboard
 
-<figure><img src=".gitbook/assets/image (31).png" alt=""><figcaption><p>TV Mockup - Classic Vs.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>TV Mockup - Classic Vs.</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>TV Mockup - Vs. Black Bubble Hunt</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>TV Mockup - Vs. Black Bubble Hunt</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>TV Mockup - Coop Mode</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>TV Mockup - Coop Mode</p></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Phone Mockup Controller</p></figcaption></figure>
 
