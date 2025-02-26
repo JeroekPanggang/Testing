@@ -14,10 +14,6 @@ Game ini ditargetkan untuk Player casual yang menyukai game bergenre Puzzle Slid
 * Jumlah Player: 2 \~ 4 Orang
 * Game Design Pillar: Challenge, Competition, Fantasy
 
-## Art Reference
-
-
-
 ## Core Mechanic
 
 1. Sliding Movement

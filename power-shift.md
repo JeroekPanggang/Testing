@@ -25,10 +25,6 @@ Game ini dirancang untuk Player yang menyukai game Co-op melalui pembagian Role 
 * Jumlah Player: 2 \~ 4 Orang
 * Game Design Pillar: Challenge, Fellowship, Sensation
 
-## Art Reference
-
-
-
 ## Core Mechanic
 
 1. Role Management

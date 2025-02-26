@@ -14,10 +14,6 @@ Game ini ditargetkan untuk Keluarga dan Player yang menyukai game yang mirip sep
 * Jumlah Player: 2 \~ 4 Orang
 * Game Design Pillar: Challenge, Competition, Fellowship \[Mode Co-op]
 
-## Art Reference
-
-
-
 ## Core Mechanic
 
 1. Shooting Bubble
