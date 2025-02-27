@@ -6,6 +6,14 @@ Dream Defender adalah game Tower Defense dimana Player akan melawan musuh berupa
 
 Enviroment berupa tempat gelap gulita, Karakter akan bergerak lebih lambat jika gak ada cahaya. Tower akan menembak menggunakan amunisi dan bakal butuh "recharge" sementara untuk dapat menembak kembali
 
+## Target Audience
+
+## Detail
+
+* Genre: 2D, Tower Defense, Co-op.
+* Jumlah Player: 1 \~ 4 Player.
+* Design Pillar: Fellowship, Challenge, Fantasy
+
 ## Core Mechanic
 
 1. Movement
@@ -43,3 +51,5 @@ Enviroment berupa tempat gelap gulita, Karakter akan bergerak lebih lambat jika 
 ## Story Board
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>TV Mockup - Level Example</p></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (32).png" alt=""><figcaption><p>Phone Controller Mockup</p></figcaption></figure>
