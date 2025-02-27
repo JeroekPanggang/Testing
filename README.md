@@ -1,56 +1,67 @@
----
-cover: .gitbook/assets/download (1).jpg
-coverY: 0
----
-
-# 🎣 Meow Fishery
+# 🫧 Bubble Popper
 
 ## Overview
 
-Bersama-sama memancing di laut dalam dalam petualangan seru! Tangkap berbagai jenis ikan untuk memenuhi kuota, temukan harta karun dan power-up, namun hati-hati dengan bom yang dapat menghalangi misi kalian. Strategi dan ketepatan waktu adalah kunci untuk menjadi pemancing terbaik !&#x20;
-
-## Detail
-
-* Genre: 2D, Fishing, Multiplayer, Co-op.
-* Jumlah Player: 1 \~ 4 Player.
-* Art Style: Cartoony&#x20;
-* Design Pillar: Fellowship, Challenge, Fantasy
-
-## Art Reference
-
-<figure><img src=".gitbook/assets/image (5).png" alt="" width="160"><figcaption><p>Cat Snack Bar: Bustling Fish Market</p></figcaption></figure>
+Bubble Popper adalah game Puzzle Match 3 dengan mekanisme menembak, dimana Player akan menembakkan Bubble ke arah gerombolan Bubble lainnya
 
 ## Target Audience
 
-Game ini dirancang untuk keluarga dengan mekanisme sederhana dan sistem kerja sama yang mendorong interaksi. **Ikan di laut dalam** bisa ditangkap oleh pemain lebih berpengalaman, sementara **ikan di laut dangkal hingga menengah** cocok untuk pemain yang lebih muda. Dengan sistem ini, semua anggota keluarga dapat berperan dan bersenang-senang bersama.
+Game ini ditargetkan untuk Keluarga dan Player yang menyukai game yang mirip seperti Bubble Shooter. Beragam game mode mulai dari yang kompetitif dan mode party, hingga mode Co-op membuat game ini bisa dinikmati bersama keluarga maupun teman.
+
+## Detail
+
+* Genre: Puzzle, Arcade, Party Game,&#x20;
+* Jumlah Player: 2 \~ 4 Orang
+* Game Design Pillar: Challenge, Competition, Fellowship \[Mode Co-op]
 
 ## Core Mechanic
 
-1. :ship: **Movement**&#x20;
-   * Player dapat menggerakkan perahu ke kiri dan ke kanan.
-2. :hook:**Casting Hook**
-   * Player melempar kail ke laut dengan menentukan sudut dan kekuatan lemparan.
-   * Kekuatan lemparan akan menentukan kecepatan turun kail.
-   * Kail akan turun secara terus menerus sampai mengenai Objek ataupun tembok.
-3. :boom: **Sea Mine (Challenge)**
-   * Player harus menghindari bahaya berupa Ranjau Laut.
-   * Jika kail pancing Player mengenai Ranjau, maka Ranjau akan meledak dan membunuh ikan disekitarnya.
-4. :100: **Point System (Fellowship)**
-   * Sistem Poin bersifat tim (All for one).
-   * Player akan menerima Poin dari ikan yang ditangkap.&#x20;
-   * Semakin dalam lokasi ikan ditangkap, maka semakin besar poinnya.
-   * Player juga akan memperoleh poin besar jika berhasil menangkap peti harta karun.
-5. :dart: **Mission (Challenge)**&#x20;
-   * Player diberikan objektif berupa Jenis dan Jumlah ikan yang harus ditangkap.&#x20;
-   * Player harus bekerjasama dalam memenuhi objektif untuk memenangkan level.
-   * Player tetap bisa menangkap ikan yang tidak sesuai objektif untuk meraih poin tambahan.
-6. :bubbles: **Power-up Bubble**
-   * Power-up Bubble akan muncul secara random di laut dan Player bisa mendapatkannya dengan cara mengenainya dengan kail pancing.
-   * Power-Up dapat membantu Player dalam menghadapi Sea Mine ataupun memenangkap ikan.
+1. Shooting Bubble
+   1. Player menembak Bubble dari karakter di bawah layar ke kumpulan bubble di atas.
+   2. Bubble bergerak lurus dan memantul saat mengenai dinding.
+   3. Tekan tombol Tembak untuk menembakkan Bubble.
+2. Aiming&#x20;
+   1. Tahan tombol Tembak untuk membidik, lepaskan untuk menembakkan bubble.
+   2. Gunakan tombol Kiri/Kanan untuk mengarahkan bidikan.
+   3. Saat membidik, Player tidak bisa bergerak hingga bubble ditembakkan.
+3. Bubble Swap
+   1. Player dapat menampung 2 bubble: 1 untuk ditembakkan dan 1 disimpan.
+   2. Setelah bubble ditembakkan, bubble cadangan otomatis berpindah ke slot tembak.
+   3. Player dapat menukar bubble yang akan ditembakkan dengan bubble di slot simpan kapan saja.
+   4. Setelah menembakkan bubble, player akan langsung me-reload bubble dengan warna acak.
+4. Matching Bubble
+   1. Player harus mencocokkan 3 atau lebih bubble dengan warna yang sama untuk meletuskannya.
+   2. Semakin banyak bubble yang diletuskan, semakin besar skor yang didapatkan.
+5. Bubble Pop
+   1. Saat 3 atau lebih bubble dengan warna yang sama dicocokkan, bubble tersebut akan meletus.
+   2. Bubble dengan warna sama yang terhubung langsung akan ikut meletus.
+   3. Bubble dengan warna berbeda yang hanya menempel pada bubble yang meletus juga akan ikut meletus.
+6. Bubble Spawn Mechanic
+   1. Bubble muncul dari atas layar secara berkala, mendorong bubble lama ke bawah.
+   2. Jika bubble menyentuh batas bawah layar, pemain akan kalah.
+7. **Mekanisme Khusus:**&#x20;
+   1. **Co-op Mode**
+      1. \[Role Management] Setiap Player memiliki warna khusus, Bubble yang direload akan memiliki probabilitas lebih tinggi untuk muncul dengan warna yang sama dengan Player.
+      2. \[Movement Mechanic] Karakter dapat bergerak ke kanan dan ke kiri. Tetapi, karakter akan diam ketika sedang Aiming.
+      3. \[Event Management] Terdapat sebuah bar yang berada di layar bagian atas. Setelah bar terisi penuh maka akan terjadi salah satu Event berikut yang dipilih secara random:
+         * **Color Change:** Warna pada Player akan diacak, membuat probabilitas warna Bubble yang muncul lebih sering menjadi berbeda / berubah.
+         * **Spawn Spree:** Bubble akan muncul secara cepat dalam waktu yang singkat
+         * **Bubble Flip:** Memputar balikkan posisi Bubble yang berada di atas layar&#x20;
+   2. **Vs. Black Bubble Hunt**
+      1. \[Black Bubble Mechanic] Akan muncul Bubble utama berwarna **Hitam** di tengah. Jika Player mengenai **Bubble Hitam**, maka Player akan memperoleh Poin besar dan semua Bubble akan meletus.
+      2. \[Black Bubble Respawn] Setelah **Bubble Hitam** meletus, maka akan ada jeda beberapa waktu, kemudian Bubble Hitam baru akan muncul.
+      3. \[Black Bubble Pity System] Bubble Hitam memiliki kecenderungan untuk spawn dengan posisi lebih mendekati Player dengan score terendah. Memudahkan mereka untuk meletuskan dan mengejar ketertinggalan.
+      4. \[Bubble Spawn] Bubble akan spawn mengitari Bubble Hitam. Diawal Bubble Hitam Spawn, akan ada setidaknya 2 lapis Bubble yang melapisi **Bubble Hitam**
+   3. **Classic Vs.**&#x20;
+      1. \[Bubble Spawn] Saat pemain mengumpulkan poin tertentu, Bubble di layar lawan akan muncul lebih cepat untuk sementara waktu.
 
 ## Storyboard
 
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption><p>TV StoryBoard</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>TV Mockup - Classic Vs.</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Controller Mockup</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption><p>TV Mockup - Vs. Black Bubble Hunt</p></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>TV Mockup - Coop Mode</p></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption><p>Phone Mockup Controller</p></figcaption></figure>
 
